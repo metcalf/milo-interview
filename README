@@ -1,3 +1,7 @@
+# Milo Interview
+
+Written: May 2010
+
 This package provides two implementations (functional and imperative) of a program 
 for assigngin a list of products to a list of customers to maximize the suitability 
 of the products for the customers.
